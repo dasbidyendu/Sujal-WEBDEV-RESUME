@@ -1,0 +1,90 @@
+.industry{
+    text-align: left;
+    color: black;
+margin-top: 15px;
+border: 10px;
+}
+.skills{
+    text-align: right;
+
+}
+.mail{
+    color: black;
+    margin-right: 100px;
+}
+.id{
+    color: black;
+    margin-right: 100px;
+}
+.git{
+    color: black;
+    margin-right: 100px;
+}
+.twitter{
+    color: black;
+    margin-right: 100px;
+}
+.lik{
+    width: 20px;
+    height: 20px;
+    
+}
+.gi{
+    width: 20px;
+    height: 20px;
+
+}
+.twi{
+    width: 20px;
+    height: 20px;
+}
+.cal{
+    width: 20px;
+    height: 20px;
+    margin-left: 300px;
+}
+.span{
+    font-weight: bolder;
+    scrollbar-highlight-color: black;
+}
+.cal1{
+    width: 20px;
+        height: 20px;
+        margin-left: 340px;
+}
+.cal2{
+    width: 20px;
+        height: 20px;
+        margin-left: 83px;
+}
+.cal3{
+    width: 20px;
+        height: 20px;
+        margin-left: 110px;}
+
+.cal4{
+    width: 20px;
+        height: 20px;
+        margin-left: 450px;    
+}
+.cal5{
+    width: 20px;
+        height: 20px;
+        margin-left: 370px;
+}
+.insta{
+    color: black;
+        margin-right: 100px;
+}
+.ins{
+    width: 20px;
+        height: 20px;
+}
+@media print {orientation:landscape{
+    .printableArea {page-break-after: always;}
+    }
+}
+.container{
+    display: flex;
+    gap: 50px;
+}
